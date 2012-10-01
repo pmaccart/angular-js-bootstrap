@@ -1,6 +1,5 @@
-'use strict';
-
 /* Directives */
 define([], function () {
+    'use strict';
 
 });

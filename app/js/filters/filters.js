@@ -1,6 +1,5 @@
-'use strict';
-
 /* Filters */
 define([], function () {
+    'use strict';
 
 });

@@ -1,6 +1,5 @@
-'use strict';
-
 /* Services */
 define([], function () {
+    'use strict';
 
 });

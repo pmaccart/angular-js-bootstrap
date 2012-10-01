@@ -1,5 +1,5 @@
 /* Route Configuration */
-define(['app', 'controllers/HomeCtrl'],
+define(['app', 'controllers/Home'],
     function (app, HomeCtrl) {
         'use strict';
 
